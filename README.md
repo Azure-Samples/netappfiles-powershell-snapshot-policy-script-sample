@@ -5,10 +5,10 @@ languages:
 products:
 - azure
 - azure-netapp-files
-description: "This project demonstrates how to create and update a Snapshot Policy for Microsoft.NetApp resource provider using PowerShell SDK.
+description: "This project demonstrates how to create and update a Snapshot Policy for Microsoft.NetApp resource provider using PowerShell module.
 ---
 
-# Azure NetAppFiles SDK Sample - Snapshot Policy for .NETCore 
+# Azure NetAppFiles Script Sample - Snapshot Policy for PowerShell 
 
 This project demonstrates how to use a PowerShell sample script to create and update a Snapshot Policy for the Microsoft.NetApp
 resource provider.
@@ -88,6 +88,5 @@ Sample output
 * [Resource limits for Azure NetApp Files](https://docs.microsoft.com/azure/azure-netapp-files/azure-netapp-files-resource-limits)
 * [Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/quickstart)
 * [Azure NetApp Files documentation](https://docs.microsoft.com/azure/azure-netapp-files/)
-* [Download Azure SDKs](https://azure.microsoft.com/downloads/)
 * [Azure NetApp Files PowerShell](https://docs.microsoft.com/powershell/module/az.netappfiles/?view=azps-5.5.0)
  

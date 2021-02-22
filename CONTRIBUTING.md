@@ -1,4 +1,4 @@
-# Contributing to Azure NetApp Files SDK Sample - Snapshot Policy for PowerShell
+# Contributing to Azure NetApp Files Script Sample - Snapshot Policy for PowerShell
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
