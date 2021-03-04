@@ -17,7 +17,7 @@ resource provider.
 In this sample script we perform the following operations:
 
 * Creations
-    * NetApp Files Account
+    * Azure NetApp Files Account
     * Snapshot Policy
     * Capacity Pool
     * Volume
@@ -25,9 +25,9 @@ In this sample script we perform the following operations:
     * Snapshot Policy
 * Deletions
     * Volume
-	* Capacity Pool
+    * Capacity Pool
     * Snapshot Policy    
-    * Account
+    * Azure NetApp Files Account
 
 >Note: The cleanup execution is disabled by default. If you want to run this end to end with the cleanup, please
 >change value of boolean variable 'CleanupResources' in CreateANFVolumeWithSnapshot.ps1
