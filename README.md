@@ -2,11 +2,10 @@
 page_type: sample
 languages:
 - powershell
-- azurepowershell
 products:
 - azure
 - azure-netapp-files
-description: This project demonstrates how to create and update a Snapshot Policy for Microsoft.NetApp resource provider using PowerShell module.
+description: "This project demonstrates how to create and update a Snapshot Policy for Microsoft.NetApp resource provider using PowerShell module."
 ---
 
 # Azure NetAppFiles Script Sample - Snapshot Policy for PowerShell 
